@@ -1,0 +1,20 @@
+.bordering
+{
+
+    border: 1px solid white;
+}
+
+.slider{
+    background-color: rgb(37, 9, 217);
+   background-size: cover;
+   background-repeat: no-repeat;
+   height:600px;
+   
+ }
+ .slidercontent{
+   
+  text-align: center;
+  font-family: Algerian,Broadway;
+  color:white;
+  font-weight:bold;
+ }

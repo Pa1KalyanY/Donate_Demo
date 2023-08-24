@@ -1,0 +1,13 @@
+li:hover
+{
+   color: azure;
+}
+.abc:hover
+{
+   color: azure;
+}
+
+.image{
+   filter: grayscale(100%);
+   -webkit-filter: grayscale(100%);
+}
